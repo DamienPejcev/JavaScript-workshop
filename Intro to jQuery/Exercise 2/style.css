@@ -1,0 +1,30 @@
+main {
+  border: 8px solid #4285f4;
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  width: 225px;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  padding: 30px;
+  margin: 0px;
+}
+
+.north {
+  background: #E67676;
+}
+
+.east {
+  background: #F2F062;
+}
+
+.south {
+  background: #A9E6E6;
+}
+
+.west {
+  background: #7692E4;
+}
