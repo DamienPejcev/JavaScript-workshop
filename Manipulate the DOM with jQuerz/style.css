@@ -1,0 +1,20 @@
+h1 {
+  color: #E65C00;
+}
+
+h2 {
+  color: #6300E6;
+}
+
+p {
+  width: 500px;
+}
+
+.pink {
+  color: #FF00BF;
+  text-decoration: underline;
+}
+
+.black {
+  text-decoration: underline;
+}
