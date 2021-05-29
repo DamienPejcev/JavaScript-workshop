@@ -30,5 +30,29 @@ button {
     height: 30px;
     font-weight: bold;
     border-radius: 10px;
+}
 
+#forth {
+    background-color: blue;
+    color: white;
+}
+
+#inputdiv {
+    width: 315px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+#input {
+    width: 200px;
+    height: 60px;
+    font-size: 35px;
+    margin: auto;
+}
+
+#color {
+    font-size: 30px;
+    margin: auto;
 }
